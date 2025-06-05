@@ -83,7 +83,7 @@ export default function CheckoutPage() {
   const [isClient, setIsClient] = useState(false);
   const formValues = useRef<CheckoutFormValues | null>(null);
   const [isTestMode, setIsTestMode] = useState(true);
-  const [upiId, setUpiId] = useState(process.env.NEXT_PUBLIC_UPI_ID || "7380019888@ybl");
+  const [upiId, setUpiId] = useState(process.env.NEXT_PUBLIC_UPI_ID || "unnatjain9988@okaxis");
 
   // Mark when component is mounted on client
   useEffect(() => {
