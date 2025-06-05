@@ -119,7 +119,7 @@ export function Footer() {
         </div>
         <div className="pt-8 mt-8 border-t">
           <p className="text-sm text-muted-foreground">
-            &copy; {new Date().getFullYear()} EasyShop. All rights reserved by Janardan Singh Foundation. 
+            &copy; {new Date().getFullYear()} EasyShop. All rights reserved by Unnat Jain & JS Foundation. 
           </p>
         </div>
       </div>
